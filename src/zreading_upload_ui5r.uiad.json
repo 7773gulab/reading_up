@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Reading Uploader"
+  },
+  "ui5AppDetails": {
+    "appId": "zreadinguploader"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_167E28C62F0EAF13B97D967FC3E1D52A47B5D489_TM",
+    "semanticObject": "zreading_uploader_4",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_167E28C62F0EAF13B97D967FC3E1D52A47B5D489_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Reading Uploader",
+        "subtitle": "PM"
+      }
+    }
+  ]
+}
